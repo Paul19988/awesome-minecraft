@@ -58,6 +58,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 - [NoteBlockAPI](https://github.com/koca2000/NoteBlockAPI) - API to be able to play .nbs files.
 
 ### Storage
+- [Configurate](https://github.com/SpongePowered/Configurate) - Simple configuration library for Java applications that provides a node-based representation of data, able to handle a wide variety of configuration formats.
 - [LightningStorage](https://github.com/JavaFactoryDev/LightningStorage) - Bukkitlike standalone java library to store data in YAML, JSON & Toml - Preserves comments!
 
 ### User Interface
