@@ -37,7 +37,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 ### Lighting
 - [LightAPI](https://github.com/Qveshn/LightAPI) - Create invisible light sources.
 
-## Localization
+### Localization
 - [Languagy](https://gitlab.com/SamB440/languagy) - Library for detecting player locale settings and auto translating provided messages.
 
 ### NBT
