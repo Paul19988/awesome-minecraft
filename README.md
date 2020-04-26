@@ -31,6 +31,7 @@ A curated list of awesome Minecraft related libraries for bukkit developer needs
 - [Intuitive Database Wrapper](https://github.com/aikar/db) - A clean and intuitive API for Java to remove JDBC boilerplate.
 
 ### Multi Purpose
+- [Anvil](https://github.com/AnvilPowered/Anvil) - Cross platform plugin API framework. Allows for a single server plugin to be made for Spigot, Sponge and even Nukkit or a proxy plugin made for bungeecord and velocity.
 - [helper](https://github.com/lucko/helper) - Large set of utilities for making plugin development for bukkit faster and easier.
 - [Vault](https://github.com/milkbowl/Vault) - Provides APIs for economy plugins, permission plugins and chat plugins.
 
